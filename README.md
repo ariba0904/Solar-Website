@@ -56,24 +56,6 @@ Solaris-Solar-Website/
 └── README.md
 ```
 
-## Run Locally
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/ariba0904/Solaris-Solar-Website.git
-   ```
-
-2. Open the project folder:
-
-   ```bash
-   cd Solaris-Solar-Website
-   ```
-
-3. Open the folder in Visual Studio Code and launch `index.html` with the Live Server extension, or open `index.html` directly in a browser.
-
-No package installation or build process is required for the current version.
-
 ## Important Limitations
 
 - **Demo dashboard:** The displayed energy readings are simulated and are not connected to real solar panels, meters, or monitoring hardware.
