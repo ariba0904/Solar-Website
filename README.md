@@ -93,7 +93,7 @@ No package installation or build process is required for the current version.
 **Ariba**
 
 - GitHub: [@ariba0904](https://github.com/ariba0904)
-- Repository: [Solaris-Solar-Website](https://github.com/ariba0904/Solaris-Solar-Website)
+- Repository: [Solar-Website](https://github.com/ariba0904/Solar-Website)
 
 ---
 
